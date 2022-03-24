@@ -82,15 +82,15 @@ Augustsson, Lennart, Jacob Schwartz, and Rishiyur Nikhil. _Bluespec™ Language 
 
 Course readings were also taken from chapters of the _Digital Communication: Signal Processing_ course reader written by John Cioffi at Stanford University.
 
-Chapter 1 - Fundamentals of discrete data transmission (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB](http://stanford.edu/group/cioffi/ee379a/course_reader/chap1.pdf))
+Chapter 1 - Fundamentals of discrete data transmission ([PDF - 2.4 MB](http://stanford.edu/group/cioffi/ee379a/course_reader/chap1.pdf))
 
-Chapter 2 - Passband systems and analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://stanford.edu/group/cioffi/ee379a/course_reader/chap2.pdf))
+Chapter 2 - Passband systems and analysis ([PDF](http://stanford.edu/group/cioffi/ee379a/course_reader/chap2.pdf))
 
-Chapter 3 - Equalization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5 MB](http://stanford.edu/group/cioffi/ee379a/course_reader/chap3.pdf))
+Chapter 3 - Equalization ([PDF - 5.5 MB](http://stanford.edu/group/cioffi/ee379a/course_reader/chap3.pdf))
 
 Chapter 4 - Multi-channel modulation
 
-Chapter 6 - Fundamentals of synchronization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://stanford.edu/group/cioffi/ee379a/course_reader/chap6.pdf))
+Chapter 6 - Fundamentals of synchronization ([PDF - 1.0 MB](http://stanford.edu/group/cioffi/ee379a/course_reader/chap6.pdf))
 
 Chapter 8 - Fundamental limits of coding and sequences
 
