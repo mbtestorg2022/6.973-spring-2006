@@ -10,6 +10,7 @@ description: 'This resource contains information on topics levin-campello, rate 
   (DMT), and orthogonal frequency division multiplexing (OFDM).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/2a8950c0b8a77687bae83a70ff459b08_lecture_4.pdf
 file_type: application/pdf
+parent_uid: a96a72a7-2b02-6c71-2d3f-e80f44c1b0cb
 resourcetype: Document
 title: lecture_4.pdf
 uid: 2a8950c0-b8a7-7687-bae8-3a70ff459b08

@@ -4,6 +4,7 @@ description: Lecture notes on implementation of the Viterbi algorithm, convoluti
   codes, trellis diagrams, and calculating branch metrics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/653a5f7b68363dcfffcf5f50117febf6_lecture_14.pdf
 file_type: application/pdf
+parent_uid: a96a72a7-2b02-6c71-2d3f-e80f44c1b0cb
 resourcetype: Document
 title: lecture_14.pdf
 uid: 653a5f7b-6836-3dcf-ffcf-5f50117febf6

@@ -6,6 +6,7 @@ description: Lecture notes with an introduction to practical digital communicati
   with permission.)
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/e20f5689bb1606324f1488536896e301_lecture_2.pdf
 file_type: application/pdf
+parent_uid: a96a72a7-2b02-6c71-2d3f-e80f44c1b0cb
 resourcetype: Document
 title: lecture_2.pdf
 uid: e20f5689-bb16-0632-4f14-88536896e301
